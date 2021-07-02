@@ -403,5 +403,3 @@ img.emoji {
 	
 	</body>
 </html>
-<?php
-// Silence is golden.

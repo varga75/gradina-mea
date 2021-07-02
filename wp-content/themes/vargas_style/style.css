@@ -4060,12 +4060,12 @@ table.wp-calendar-table caption {
 }
 
 .entry-title a {
-	color: green;
+	color: var(--entry-header--color-link);
 	text-underline-offset: 0.15em;
 }
 
 .entry-title a:hover {
-	color: green;
+	color: var(--entry-header--color-hover);
 }
 
 .entry-title a:focus {
